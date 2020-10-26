@@ -1,0 +1,1 @@
+PRETRAINED_MODEL_NAME = 'bert-base-cased'
