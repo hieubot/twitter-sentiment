@@ -1,7 +1,7 @@
-from torch import nn
+import torch.nn as nn
 from transformers import BertModel
 
-import config
+from sentiment import config
 
 
 class SentimentClassifier(nn.Module):
